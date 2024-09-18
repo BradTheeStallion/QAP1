@@ -1,0 +1,16 @@
+{
+  "name": "qap1-ba",
+  "version": "1.0.0",
+  "description": "A CLI tool for [describe your project purpose]",
+  "main": "index.js",
+  "bin": {
+    "qap": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "tool", "example"],
+  "author": "Brad Ayers",
+  "license": "ISC"
+}
+
